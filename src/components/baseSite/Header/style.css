@@ -1,0 +1,33 @@
+.back-header{
+    
+    height: 90px;
+    background-color: #be1229;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logomarca{
+    display:block;
+    padding-top: 15px;
+    width: 270px;
+    text-decoration: none;
+    border: 0;
+    
+}
+
+.logomarca img{
+    width: 100%;
+    border: 0;
+}
+
+.customNavbar .navbar-text, .customNavbar .navbar-nav .nav-link{
+    color: #fff;
+}
+
+.customNavbar .nav-link.active, .customNavbar .nav-link:hover{
+    color: #fc0;
+}
